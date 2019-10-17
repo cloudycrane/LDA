@@ -1,0 +1,6 @@
+output/
+EdgarFillings_full/
+mallet/
+.git/
+*.zip
+*.pdf
