@@ -4,3 +4,8 @@ mallet/
 .git/
 *.zip
 *.pdf
+*.tar
+*.gz
+.ipynb_checkpoints/
+nohup
+
